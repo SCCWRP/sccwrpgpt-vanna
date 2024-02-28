@@ -1,0 +1,14 @@
+testing/
+files/
+__pycache__/
+.DS_Store
+docker/deploy.sh
+docker/__pycache__/
+utils/__pycache__/
+static/__pycache__/
+templates/__pycache__/
+f23dc6c8-3799-4d74-a59f-5f99712b2971/
+5e1ef930-02b5-4f24-b42e-b2d6cb91cf12/
+cd79dfdb-4798-45ce-b3dd-e2fe272a3213/
+models/
+chroma.sqlite3
