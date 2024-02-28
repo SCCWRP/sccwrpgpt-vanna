@@ -1,4 +1,4 @@
-# SCCWRP AI Data Search Tool
+# SCCWRP Vanna AI Data Search Tool
 
 Uses the Vanna AI to search data in our internal database
 
